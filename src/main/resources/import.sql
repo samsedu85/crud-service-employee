@@ -1,0 +1,1 @@
+insert into employees(first_name, second_name, paternal_surname, maternal_surname, age, sex, date_of_birth, position, join_date, status) VALUES ('EDUARDO', 'SAMUEL', 'SANTIAGO', 'GARCIA', 34, 'M', '1985-04-27', 'JAVA', NOW(), true)
