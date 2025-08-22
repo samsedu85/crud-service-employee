@@ -14,6 +14,10 @@ import com.invex.dto.EmployeeDTO;
  */
 public interface IEmployeeService extends IGenericService<EmployeeDTO> {
 
+	/**
+	 * @param name
+	 * @return
+	 */
 	public List<EmployeeDTO> employeeByName(String name);
 
 }

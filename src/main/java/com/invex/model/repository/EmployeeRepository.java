@@ -16,6 +16,10 @@ import com.invex.model.entity.Employee;
  */
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 
+	/**
+	 * @param name
+	 * @return Optional
+	 */
 	Optional<List<Employee>> findByFirstName(String name);
 
 }

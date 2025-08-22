@@ -18,6 +18,11 @@ import com.invex.dto.EmployeeDTO;
 @Component
 public class EmployeeMapper {
 
+	/**
+	 * @param findedEmployee
+	 * @param newEmployee
+	 * @return List<EmployeeDTO>
+	 */
 	public List<EmployeeDTO> updateCurrentEmployee(EmployeeDTO findedEmployee, EmployeeDTO newEmployee) {
 		BeanUtils.copyProperties(newEmployee, findedEmployee);
 		return Arrays.asList(findedEmployee);

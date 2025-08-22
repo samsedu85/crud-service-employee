@@ -23,6 +23,11 @@ import com.invex.model.repository.EmployeeRepository;
 public class EmployeeServiceImpl extends GenericServiceImpl<Employee, EmployeeDTO, EmployeeRepository>
 		implements IEmployeeService {
 
+	/**
+	 * Metodo que regresa una lista de empleados que coincida con el nombre a buscar
+	 * @param name
+	 * @return List<EmployeeDTO>
+	 */
 	@Override
 	public List<EmployeeDTO> employeeByName(String name) {
 
