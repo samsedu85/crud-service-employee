@@ -6,7 +6,8 @@
 [Ir al enlace](https://github.com/samsedu85/generic-commons)
 >>> 2. Descargar o clonar este proyecto "git clone <url_repo"
 >>> 3. Ejecutar los comandos "mvn clean install package"
->>> 4. La url de la documentacion swagger es: <http://localhost:1901/swagger-ui/index.html>
+>>> 4. El proyecto corre sobre el puerto 1901
+>>> 5. La url de la documentacion swagger es: <http://localhost:1901/swagger-ui/index.html>
 
 El proyecto cumple con lo siguiente:
 
