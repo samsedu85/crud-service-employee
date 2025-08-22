@@ -34,5 +34,12 @@ El proyecto cumple con lo siguiente:
 >> 
 >> -Manejo de codigos HTTP
 >> 
->> Constantes
->> Git
+>> -Constantes
+>> 
+>> -Git
+>>
+>> ![invex](https://github.com/user-attachments/assets/18698b76-cedf-46f2-ac8e-8f20f149af3a)
+>>
+>> ![getEmployee](https://github.com/user-attachments/assets/b6b3fd3a-9a79-4537-bacb-f7afe870744e)
+>>
+>> ![getEmployee2](https://github.com/user-attachments/assets/36dbc9ae-0c82-44f2-b067-50a63287f7a9)
